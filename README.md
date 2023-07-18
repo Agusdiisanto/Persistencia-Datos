@@ -12,3 +12,10 @@ El TP Final trata sobre el enunciado 6 donde realizamos una aplicacion completa 
 
 Interfaz Grafica : https://github.com/Agusdiisanto/Interfaz-Principes
 
+
+## INTEGRANTES :   
+
+- Santiago Abregú
+- Manuel Dobrotinich
+- Julieta Jara
+- Agustin Di Santo
